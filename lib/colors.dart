@@ -7,3 +7,4 @@ Color orangeColor = new Color(0xFFF76707);
 Color lightWhiteColor = new Color(0xFFF8F9FA);
 Color unselectedMenuColor = new Color(0xFFADB5BD);
 Color yellowColor = new Color(0xFFFAB005);
+Color thumbnailBg = new Color(0xFFF1F3F5);
